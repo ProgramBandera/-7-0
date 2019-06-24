@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.223,D:\BanderaProgram\Delphi Проекти\RX\Фізика 1\Графіки.pas=D:\BanderaProgram\Delphi Проекти\github.com\Графіки.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.544,=D:\BanderaProgram\Delphi Проекти\RX\Фізика 1\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.671,=D:\BanderaProgram\Delphi Проекти\RX\Фізика 1\Unit4.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.223,D:\BanderaProgram\Delphi Проекти\RX\Фізика 1\Графіки.dfm=D:\BanderaProgram\Delphi Проекти\github.com\Графіки.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.870,D:\BanderaProgram\Delphi Проекти\RX\Фізика 1\Конвертор.dfm=D:\BanderaProgram\Delphi Проекти\github.com\Конвертор.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.792,D:\BanderaProgram\Delphi Проекти\RX\Фізика 1\Фізика.dfm=D:\BanderaProgram\Delphi Проекти\github.com\Фізика.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.293,D:\BanderaProgram\Delphi Проекти\RX\Unit1.dfm=D:\BanderaProgram\Delphi Проекти\RX\Фізика 1\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.602,D:\BanderaProgram\Delphi Проекти\RX\Фізика 1\Unit4.pas=D:\BanderaProgram\Delphi Проекти\RX\Фізика 1\Unit5.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.792,D:\BanderaProgram\Delphi Проекти\RX\Фізика 1\Фізика.pas=D:\BanderaProgram\Delphi Проекти\github.com\Фізика.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.227,D:\BanderaProgram\Delphi Проекти\github.com\Конвертор.pas=D:\BanderaProgram\Delphi Проекти\RX\Фізика 1\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.456,D:\BanderaProgram\Delphi Проекти\github.com\Калькулятор.dfm=D:\BanderaProgram\Delphi Проекти\RX\Фізика 1\Unit3.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.564,D:\BanderaProgram\Delphi Проекти\github.com\Графіки.pas=D:\BanderaProgram\Delphi Проекти\RX\Фізика 1\Unit5.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.064,D:\BanderaProgram\Delphi Проекти\github.com\Фізика.pas=D:\BanderaProgram\Delphi Проекти\RX\Фізика 1\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.484,=D:\BanderaProgram\Delphi Проекти\RX\Фізика 1\Unit3.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.870,D:\BanderaProgram\Delphi Проекти\RX\Фізика 1\Конвертор.pas=D:\BanderaProgram\Delphi Проекти\github.com\Конвертор.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.227,D:\BanderaProgram\Delphi Проекти\github.com\Конвертор.dfm=D:\BanderaProgram\Delphi Проекти\RX\Фізика 1\Unit2.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.456,D:\BanderaProgram\Delphi Проекти\github.com\Калькулятор.pas=D:\BanderaProgram\Delphi Проекти\RX\Фізика 1\Unit3.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.564,D:\BanderaProgram\Delphi Проекти\github.com\Графіки.dfm=D:\BanderaProgram\Delphi Проекти\RX\Фізика 1\Unit5.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.064,D:\BanderaProgram\Delphi Проекти\github.com\Фізика.dfm=D:\BanderaProgram\Delphi Проекти\RX\Фізика 1\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.268,D:\BanderaProgram\Delphi Проекти\RX\Project1.dproj=D:\BanderaProgram\Delphi Проекти\RX\Фізика 1\Фізика.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.754,D:\BanderaProgram\Delphi Проекти\RX\Фізика 1\Калькулятор.pas=D:\BanderaProgram\Delphi Проекти\github.com\Калькулятор.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.293,D:\BanderaProgram\Delphi Проекти\RX\Unit1.pas=D:\BanderaProgram\Delphi Проекти\RX\Фізика 1\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.489,=D:\BanderaProgram\Delphi Проекти\RX\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.754,D:\BanderaProgram\Delphi Проекти\RX\Фізика 1\Калькулятор.dfm=D:\BanderaProgram\Delphi Проекти\github.com\Калькулятор.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.602,D:\BanderaProgram\Delphi Проекти\RX\Фізика 1\Unit4.dfm=D:\BanderaProgram\Delphi Проекти\RX\Фізика 1\Unit5.dfm</Transaction>
+    <Transaction>2019.06.24 21:42:01.937,=D:\BanderaProgram\Delphi Проекти\RX\Фізика 1\ModelSupport_Фізика\default.txvpck</Transaction>
+    <Transaction>2019.06.24 21:43:04.690,=D:\BanderaProgram\Delphi Проекти\RX\Фізика 1\ModelSupport_Фізика\Unit2\default.txvpck</Transaction>
+    <Transaction>2019.06.24 21:48:09.894,D:\BanderaProgram\Delphi Проекти\RX\Фізика 1\Фізика7.dproj=D:\BanderaProgram\Delphi Проекти\RX\Фізика 1\Фізика.dproj</Transaction>
+    <Transaction>2019.06.24 21:48:10.253,d:\banderaprogram\delphi проекти\rx\фізика 1\modelsupport_фізика\default.txvpck=</Transaction>
+    <Transaction>2019.06.24 21:48:10.300,=D:\BanderaProgram\Delphi Проекти\RX\Фізика 1\ModelSupport_Фізика7\default.txvpck</Transaction>
+    <Transaction>2019.06.24 21:48:10.315,d:\banderaprogram\delphi проекти\rx\фізика 1\modelsupport_фізика\unit2\default.txvpck=</Transaction>
+    <Transaction>2019.06.24 21:48:10.409,=D:\BanderaProgram\Delphi Проекти\RX\Фізика 1\ModelSupport_Фізика7\Unit2\default.txvpck</Transaction>
+    <Transaction>2019.06.24 21:48:14.262,=D:\BanderaProgram\Delphi Проекти\RX\Фізика 1\ModelSupport_Фізика7\Графіки\default.txvpck</Transaction>
+    <Transaction>2019.06.24 21:48:14.543,=D:\BanderaProgram\Delphi Проекти\RX\Фізика 1\ModelSupport_Фізика7\Калькулятор\default.txvpck</Transaction>
+    <Transaction>2019.06.24 21:48:15.245,=D:\BanderaProgram\Delphi Проекти\RX\Фізика 1\ModelSupport_Фізика7\Фізика\default.txvpck</Transaction>
+  </Transactions>
+</BorlandProject>
